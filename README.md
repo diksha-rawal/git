@@ -1,2 +1,2 @@
 # git
-my git learning repo
+my git learning repo <br> Author: Diksha Rawal
